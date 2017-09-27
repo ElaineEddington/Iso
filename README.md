@@ -1,3 +1,0 @@
-# Homework
-# Squares
-# MolDynBullet
